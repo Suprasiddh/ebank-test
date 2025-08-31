@@ -19,11 +19,6 @@ Whether you're a user looking for a convenient and secure way to manage your fin
 
 ---
 
-## 📸 Project Screenshots  
-<img src="https://mkwebdev.onrender.com/images/e-bank.webp" alt="project-screenshot" width="100%" height="100%"/>
-
----
-
 ## 🧐 Features
 
 - ✅ Full Stack MERN Application (MongoDB, Express.js, React, Node.js)  
@@ -39,3 +34,4 @@ Whether you're a user looking for a convenient and secure way to manage your fin
 ```bash
 npm install
 npm run dev
+
