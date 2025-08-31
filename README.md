@@ -1,9 +1,5 @@
 <h1 id="title" align="center">💳 Sprints-MERN-E-Banking-System</h1>
 
-<p align="center">
-  <img src="https://socialify.git.ci/mostafakamal22/Sprints-MERN-E-Banking-System/image?font=Bitter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Auto" alt="project-image">
-</p>
-
 <p id="description">
 This Full Stack MERN Application is a comprehensive E-Bank system that allows users to create and manage their own secure online bank accounts. 
 With this system users can easily perform common banking tasks such as depositing, withdrawing, and transferring money at any time. 
@@ -34,4 +30,5 @@ Whether you're a user looking for a convenient and secure way to manage your fin
 ```bash
 npm install
 npm run dev
+
 
